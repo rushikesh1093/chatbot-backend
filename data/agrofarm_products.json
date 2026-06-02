@@ -1,0 +1,270 @@
+[
+{
+"id": "p001",
+"type": "product",
+"title": "Organic NPK Boost 19-19-19",
+"category": "Water Soluble Fertilizer",
+"crops": ["Tomato", "Chilli", "Brinjal", "Cucumber"],
+"use_cases": [
+"Vegetative growth",
+"Leaf development",
+"Nutrient deficiency"
+],
+"benefits": [
+"Balanced vegetative growth",
+"Improves leaf health",
+"Enhances nutrient uptake"
+],
+"dosage": {
+"method": "Foliar Spray",
+"quantity": "5g",
+"water": "1 Liter"
+},
+"application": {
+"stage": "Vegetative Stage",
+"frequency": "Every 10-15 days"
+},
+"precautions": [
+"Avoid spraying during hot sunlight",
+"Apply during morning or evening hours"
+],
+"search_keywords": [
+"vegetative growth",
+"npk fertilizer",
+"leaf growth",
+"tomato fertilizer",
+"chilli fertilizer"
+],
+"content": "Organic NPK Boost 19-19-19 is a water soluble fertilizer suitable for tomato, chilli, brinjal and cucumber crops. It promotes balanced vegetative growth, improves leaf health and enhances nutrient uptake. Apply 5g per liter as foliar spray during vegetative stage every 10-15 days."
+},
+
+{
+"id": "p002",
+"type": "product",
+"title": "SoilGuard Bio Fungicide",
+"category": "Bio Protection",
+"crops": ["Paddy", "Tomato", "Chilli", "Vegetables"],
+"use_cases": [
+"Root rot control",
+"Damping off prevention",
+"Root health"
+],
+"benefits": [
+"Controls root rot",
+"Prevents damping off",
+"Improves root health"
+],
+"dosage": {
+"method": "Soil Drench",
+"quantity": "2ml",
+"water": "1 Liter"
+},
+"application": {
+"stage": "Transplant Stage",
+"frequency": "Repeat after 12 days if required"
+},
+"precautions": [
+"Store in cool place",
+"Shake well before use"
+],
+"search_keywords": [
+"root rot",
+"fungicide",
+"soil disease",
+"damping off"
+],
+"content": "SoilGuard Bio Fungicide is a biological crop protection product that controls root rot and damping off in paddy, tomato, chilli and vegetables. Apply 2ml per liter as soil drench during transplant stage."
+},
+
+{
+"id": "p003",
+"type": "product",
+"title": "GreenPulse Micronutrient Mix",
+"category": "Micronutrient Blend",
+"crops": ["Cotton", "Paddy", "Tomato", "Chilli"],
+"benefits": [
+"Corrects zinc deficiency",
+"Improves flowering",
+"Enhances chlorophyll production"
+],
+"search_keywords": [
+"zinc deficiency",
+"yellow leaves",
+"micronutrient"
+],
+"content": "GreenPulse Micronutrient Mix corrects zinc deficiency, improves flowering and supports chlorophyll production in cotton, paddy, tomato and chilli crops."
+},
+
+{
+"id": "p004",
+"type": "product",
+"title": "DripClean Descaler",
+"category": "Irrigation Maintenance",
+"crops": ["All Crops"],
+"benefits": [
+"Removes scale deposits",
+"Prevents clogging",
+"Improves water flow"
+],
+"search_keywords": [
+"drip irrigation",
+"clogged drip",
+"water flow"
+],
+"content": "DripClean Descaler removes scale deposits from drip irrigation systems, prevents clogging and improves water flow. Apply monthly during irrigation maintenance."
+},
+
+{
+"id": "p005",
+"type": "product",
+"title": "YieldMax Seaweed Extract",
+"category": "Biostimulant",
+"crops": ["Tomato", "Chilli", "Onion", "Grapes"],
+"benefits": [
+"Improves flowering",
+"Better fruit setting",
+"Reduces crop stress"
+],
+"search_keywords": [
+"flowering",
+"fruit setting",
+"seaweed extract"
+],
+"content": "YieldMax Seaweed Extract improves flowering, fruit setting and stress tolerance. Recommended during pre-flowering stage every 10 days."
+},
+
+{
+"id": "p006",
+"type": "product",
+"title": "NeemRakshak Oil",
+"category": "Organic Insecticide",
+"crops": ["Vegetables", "Fruits", "Flowers"],
+"benefits": [
+"Controls aphids",
+"Controls whiteflies",
+"Eco-friendly pest control"
+],
+"search_keywords": [
+"aphids",
+"whiteflies",
+"organic insecticide",
+"pest control"
+],
+"content": "NeemRakshak Oil is an eco-friendly organic insecticide effective against aphids and whiteflies. Apply 5ml per liter during pest infestation."
+},
+
+{
+"id": "p007",
+"type": "product",
+"title": "FlowerPlus Amino Booster",
+"category": "Amino Acid Biostimulant",
+"crops": ["Tomato", "Chilli", "Onion"],
+"benefits": [
+"Reduces flower drop",
+"Improves fruit retention",
+"Enhances crop vigor"
+],
+"search_keywords": [
+"flower drop",
+"fruit retention",
+"flowering"
+],
+"content": "FlowerPlus Amino Booster reduces flower drop and improves fruit retention during flowering stage."
+},
+
+{
+"id": "p008",
+"type": "product",
+"title": "RootPower Humic Granules",
+"category": "Soil Conditioner",
+"crops": ["Sugarcane", "Banana", "Cotton", "Paddy"],
+"benefits": [
+"Improves soil fertility",
+"Enhances root development",
+"Boosts microbial activity"
+],
+"search_keywords": [
+"soil fertility",
+"root growth",
+"humic granules"
+],
+"content": "RootPower Humic Granules improve soil fertility, root development and microbial activity before sowing."
+},
+
+{
+"id": "faq001",
+"type": "faq",
+"question": "Which fertilizer is best for vegetative growth?",
+"answer": "Organic NPK Boost 19-19-19 is recommended for balanced vegetative growth.",
+"related_products": ["p001"],
+"tags": ["vegetative growth", "fertilizer"]
+},
+
+{
+"id": "faq002",
+"type": "faq",
+"question": "What product helps control root rot?",
+"answer": "SoilGuard Bio Fungicide helps control root rot and damping off.",
+"related_products": ["p002"],
+"tags": ["root rot", "fungicide"]
+},
+
+{
+"id": "faq003",
+"type": "faq",
+"question": "How to improve flowering in chilli crop?",
+"answer": "YieldMax Seaweed Extract and FlowerPlus Amino Booster improve flowering and fruit setting.",
+"related_products": ["p005", "p007"],
+"tags": ["flowering", "chilli"]
+},
+
+{
+"id": "crop001",
+"type": "crop_problem",
+"crop": "Tomato",
+"problem": "Leaf Curl",
+"symptoms": [
+"Curling leaves",
+"Yellow patches",
+"Slow growth"
+],
+"possible_causes": [
+"Whitefly infestation",
+"Nutrient deficiency",
+"Viral infection"
+],
+"recommended_products": [
+{
+"product_id": "p006",
+"product_name": "NeemRakshak Oil"
+},
+{
+"product_id": "p003",
+"product_name": "GreenPulse Micronutrient Mix"
+}
+],
+"content": "Tomato leaf curl causes curling leaves, yellow patches and slow growth. Recommended products include NeemRakshak Oil and GreenPulse Micronutrient Mix."
+},
+
+{
+"id": "crop002",
+"type": "crop_problem",
+"crop": "Chilli",
+"problem": "Flower Drop",
+"symptoms": [
+"Flower shedding",
+"Poor fruit set"
+],
+"recommended_products": [
+{
+"product_id": "p005",
+"product_name": "YieldMax Seaweed Extract"
+},
+{
+"product_id": "p007",
+"product_name": "FlowerPlus Amino Booster"
+}
+],
+"content": "Chilli flower drop leads to poor fruit set. YieldMax Seaweed Extract and FlowerPlus Amino Booster are recommended."
+}
+]

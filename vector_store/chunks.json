@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Category: Water Soluble Fertilizer Crops: Tomato, Chilli, Brinjal, Cucumber Benefits: Balanced vegetative growth, Improves leaf health, Enhances nutrient uptake Dosage: {'method': 'Foliar Spray', 'quantity': '5g', 'water': '1 Liter'} Precautions: Avoid spraying during hot sunlight, Apply during morning or evening hours title: Organic NPK Boost 19-19-19 content: Organic NPK Boost 19-19-19 is a water soluble fertilizer suitable for tomato, chilli, brinjal and cucumber crops. It promotes balanced vegetative growth, improves leaf health and enhances nutrient uptake. Apply 5g per liter as foliar spray during vegetative stage every 10-15 days.",
+    "source": "agrofarm_products.json#p001"
+  },
+  {
+    "text": "Category: Bio Protection Crops: Paddy, Tomato, Chilli, Vegetables Benefits: Controls root rot, Prevents damping off, Improves root health Dosage: {'method': 'Soil Drench', 'quantity': '2ml', 'water': '1 Liter'} Precautions: Store in cool place, Shake well before use title: SoilGuard Bio Fungicide content: SoilGuard Bio Fungicide is a biological crop protection product that controls root rot and damping off in paddy, tomato, chilli and vegetables. Apply 2ml per liter as soil drench during transplant stage.",
+    "source": "agrofarm_products.json#p002"
+  },
+  {
+    "text": "Category: Micronutrient Blend Crops: Cotton, Paddy, Tomato, Chilli Benefits: Corrects zinc deficiency, Improves flowering, Enhances chlorophyll production title: GreenPulse Micronutrient Mix content: GreenPulse Micronutrient Mix corrects zinc deficiency, improves flowering and supports chlorophyll production in cotton, paddy, tomato and chilli crops.",
+    "source": "agrofarm_products.json#p003"
+  },
+  {
+    "text": "Category: Irrigation Maintenance Crops: All Crops Benefits: Removes scale deposits, Prevents clogging, Improves water flow title: DripClean Descaler content: DripClean Descaler removes scale deposits from drip irrigation systems, prevents clogging and improves water flow. Apply monthly during irrigation maintenance.",
+    "source": "agrofarm_products.json#p004"
+  },
+  {
+    "text": "Category: Biostimulant Crops: Tomato, Chilli, Onion, Grapes Benefits: Improves flowering, Better fruit setting, Reduces crop stress title: YieldMax Seaweed Extract content: YieldMax Seaweed Extract improves flowering, fruit setting and stress tolerance. Recommended during pre-flowering stage every 10 days.",
+    "source": "agrofarm_products.json#p005"
+  },
+  {
+    "text": "Category: Organic Insecticide Crops: Vegetables, Fruits, Flowers Benefits: Controls aphids, Controls whiteflies, Eco-friendly pest control title: NeemRakshak Oil content: NeemRakshak Oil is an eco-friendly organic insecticide effective against aphids and whiteflies. Apply 5ml per liter during pest infestation.",
+    "source": "agrofarm_products.json#p006"
+  },
+  {
+    "text": "Category: Amino Acid Biostimulant Crops: Tomato, Chilli, Onion Benefits: Reduces flower drop, Improves fruit retention, Enhances crop vigor title: FlowerPlus Amino Booster content: FlowerPlus Amino Booster reduces flower drop and improves fruit retention during flowering stage.",
+    "source": "agrofarm_products.json#p007"
+  },
+  {
+    "text": "Category: Soil Conditioner Crops: Sugarcane, Banana, Cotton, Paddy Benefits: Improves soil fertility, Enhances root development, Boosts microbial activity title: RootPower Humic Granules content: RootPower Humic Granules improve soil fertility, root development and microbial activity before sowing.",
+    "source": "agrofarm_products.json#p008"
+  },
+  {
+    "text": "question: Which fertilizer is best for vegetative growth? answer: Organic NPK Boost 19-19-19 is recommended for balanced vegetative growth.",
+    "source": "agrofarm_products.json#faq001"
+  },
+  {
+    "text": "question: What product helps control root rot? answer: SoilGuard Bio Fungicide helps control root rot and damping off.",
+    "source": "agrofarm_products.json#faq002"
+  },
+  {
+    "text": "question: How to improve flowering in chilli crop? answer: YieldMax Seaweed Extract and FlowerPlus Amino Booster improve flowering and fruit setting.",
+    "source": "agrofarm_products.json#faq003"
+  }
+]
