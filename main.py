@@ -102,7 +102,9 @@ async def chat(req: ChatRequest) -> ChatResponse:
     if not api_key or api_key == OPENROUTER_API_KEY_PLACEHOLDER:
         raise HTTPException(status_code=500, detail="OPENROUTER_API_KEY is missing on backend.")
 
-    language = req.language if req.language in language_prompts else "en"
+    language = (req.language or "en").strip().lower()
+    if language not in language_prompts:
+        language = "en"
     retrieved = rag_engine.retrieve(req.question, top_k=4)
 
     context = "\n\n".join(
@@ -112,6 +114,7 @@ async def chat(req: ChatRequest) -> ChatResponse:
     system_prompt = (
         "You are an agrofarm product assistant. Use the provided context as primary source of truth. "
         "If context is insufficient, say that clearly and answer cautiously. "
+        f"Respond in the requested language code '{language}'. "
         f"{language_prompts[language]}"
     )
 
