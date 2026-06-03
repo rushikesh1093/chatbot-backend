@@ -114,11 +114,13 @@ async def chat(req: ChatRequest) -> ChatResponse:
     system_prompt = (
         "You are an agrofarm product assistant. Use the provided context as primary source of truth. "
         "If context is insufficient, say that clearly and answer cautiously. "
-        f"Respond in the requested language code '{language}'. "
+        f"Respond only in the requested language code '{language}'. "
+        "Do not mix English with the response unless the requested language is English. "
         f"{language_prompts[language]}"
     )
 
     user_prompt = (
+        f"Answer language: {language}\n"
         f"Question:\n{req.question}\n\n"
         f"Relevant context:\n{context if context else 'No relevant context found in knowledge base.'}"
     )
