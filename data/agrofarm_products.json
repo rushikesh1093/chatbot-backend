@@ -267,4 +267,28 @@
 ],
 "content": "Chilli flower drop leads to poor fruit set. YieldMax Seaweed Extract and FlowerPlus Amino Booster are recommended."
 }
+
+
+,
+{
+"id": "guide_general",
+"type": "crop_guide",
+"crop": "All Crops",
+"overview": "General cultivation guidance covering major crop categories and universal best practices for successful production.",
+"categories": ["Cereals","Pulses","Vegetables","Fruits","Tubers","Oilseeds","Spices","Fiber"],
+"site_selection": "Choose well-drained fields with appropriate sunlight and microclimate; avoid waterlogged or frost-prone sites.",
+"soil_prep": "Conduct a soil test; incorporate compost or organic matter; adjust pH and nutrients per test results.",
+"seed_and_variety": "Use certified, locally-adapted and disease-resistant varieties; ensure high-quality seed or planting material.",
+"sowing_transplanting": "Follow recommended sowing dates; use correct planting depth and spacing; harden transplants before moving to field.",
+"spacing_population": "Use crop-specific spacing to optimize light, airflow and nutrient uptake; higher density for short-cycle vegetables, lower for trees.",
+"irrigation": "Apply water according to crop growth stages; prefer drip irrigation for efficiency and to reduce foliar diseases.",
+"fertilization": "Base fertilizer plans on soil tests; apply basal and side-dress nutrients; include micronutrients and foliar feeds when needed.",
+"pest_disease_management": "Implement integrated pest management: regular scouting, cultural controls, biologicals (e.g., neem oil, biopesticides) and targeted chemical use only when necessary.",
+"weed_control": "Combine mechanical weeding, mulches and cover crops to suppress weeds and conserve moisture.",
+"harvest_and_postharvest": "Harvest at crop-specific maturity; handle gently, cool quickly, dry/store appropriately to reduce losses.",
+"sustainability_practices": "Adopt crop rotation, cover cropping, reduced tillage and organic amendments to maintain long-term soil health.",
+"best_practices": ["Soil testing","Crop rotation","Record keeping","Conservation agriculture","Use of biostimulants and biofungicides","Timely pest scouting"],
+"search_keywords": ["crop guide","how to grow crops","general crop cultivation","farming best practices"],
+"content": "This general guide outlines site selection, soil preparation, seed selection, sowing/transplanting, irrigation, fertilization, pest and weed management, harvest and post-harvest handling, and sustainable practices applicable across major crop categories. Start with a soil test, choose adapted varieties, maintain consistent moisture, follow nutrient recommendations, scout pests early and use IPM, and store produce properly to minimize losses."
+}
 ]
